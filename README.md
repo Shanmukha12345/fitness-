@@ -68,5 +68,11 @@ python -m http.server 8000
 
 ---
 
+## 📄 License
 
+This project is licensed under the [MIT License](LICENSE).
+
+You are free to use, modify, and distribute this software as long as you include the original copyright.
+
+See the [LICENSE](LICENSE) file for full details.
 
